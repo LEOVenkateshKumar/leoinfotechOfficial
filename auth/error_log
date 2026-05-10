@@ -1,0 +1,362 @@
+[05-Mar-2026 06:14:33 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 06:14:49 Asia/Kolkata] Google Auth: forContacts=yes, scopes=openid email profile https://www.googleapis.com/auth/contacts.readonly
+[05-Mar-2026 06:20:23 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 06:21:29 Asia/Kolkata] Google Auth: forContacts=yes, scopes=openid email profile https://www.googleapis.com/auth/contacts.readonly
+[05-Mar-2026 06:21:50 Asia/Kolkata] Google Auth: forContacts=yes, scopes=openid email profile https://www.googleapis.com/auth/contacts.readonly
+[05-Mar-2026 06:22:17 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 06:22:33 Asia/Kolkata] Google Auth: forContacts=yes, scopes=openid email profile https://www.googleapis.com/auth/contacts.readonly
+[05-Mar-2026 06:23:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 07:31:40 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 11:46:21 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 12:38:21 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 12:38:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 12:39:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Mar-2026 12:40:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 01:43:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 01:43:23 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 07:38:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 07:59:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 11:12:19 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 12:38:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 14:21:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 14:21:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 15:55:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Mar-2026 18:14:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 01:12:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 06:13:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 10:00:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 11:47:14 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 12:48:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 13:43:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 14:50:40 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 20:04:03 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Mar-2026 20:04:07 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 00:12:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 00:12:06 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 01:54:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 02:05:07 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 02:06:47 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 12:15:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 12:49:33 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 21:34:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 22:11:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Mar-2026 22:35:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 00:43:19 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 03:28:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 07:53:33 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 10:14:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 10:17:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 10:35:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 12:21:06 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 13:44:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 14:57:07 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 17:00:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 17:01:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 18:14:37 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Mar-2026 19:21:04 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 05:16:40 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 11:59:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 12:00:14 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 12:51:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 16:37:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[10-Mar-2026 21:59:40 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Mar-2026 06:08:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Mar-2026 07:31:11 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Mar-2026 08:59:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Mar-2026 10:29:11 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Mar-2026 16:10:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 00:48:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 01:18:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 05:07:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 05:07:37 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 06:28:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 08:02:59 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 08:17:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 13:25:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 13:45:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 20:32:18 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[12-Mar-2026 20:34:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[13-Mar-2026 20:12:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 07:38:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 07:40:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 08:29:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 09:16:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 09:21:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 13:13:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:42:37 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:45:50 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:45:50 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:45:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:45:54 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[14-Mar-2026 20:45:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:46:02 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:46:02 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:46:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:46:06 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[14-Mar-2026 20:46:48 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:46:54 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:46:54 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:46:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:46:56 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[14-Mar-2026 20:47:06 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:47:11 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:47:11 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:47:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:47:19 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:47:19 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:47:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:47:22 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[14-Mar-2026 20:47:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 20:48:17 Asia/Kolkata] PHP Warning:  Undefined variable $redirectUrl in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:48:17 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/auth/google-callback.php on line 78
+[14-Mar-2026 20:48:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/auth/google-callback.php:78) in /home/akkuapps/public_html/includes/functions.php on line 129
+[14-Mar-2026 20:48:28 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[14-Mar-2026 20:49:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 21:03:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 21:05:25 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 21:11:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Mar-2026 21:11:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 00:49:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 01:27:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 01:48:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 01:58:50 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 02:11:13 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 11:16:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 13:08:48 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 14:15:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 14:57:16 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 15:32:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 22:31:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[15-Mar-2026 23:31:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[16-Mar-2026 09:56:17 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[16-Mar-2026 09:57:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 04:06:09 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 11:28:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 13:58:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 16:21:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 19:00:44 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Mar-2026 19:00:47 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Mar-2026 09:30:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Mar-2026 14:21:37 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Mar-2026 22:49:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 01:08:25 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 02:10:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 12:48:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 12:51:11 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 14:14:18 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 14:48:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 14:51:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 17:06:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Mar-2026 17:07:50 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 06:55:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 06:55:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 06:56:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 10:52:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 10:53:23 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 13:18:14 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 13:19:19 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 13:55:45 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 14:24:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 08:59:50 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:50 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/akkuapps/public_html/auth/google-callback.php:11
+Stack trace:
+#0 /home/akkuapps/public_html/auth/google-callback.php(11): hash_equals(NULL, 'a7d4e8813bbde32...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:53 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:53 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/akkuapps/public_html/auth/google-callback.php:11
+Stack trace:
+#0 /home/akkuapps/public_html/auth/google-callback.php(11): hash_equals(NULL, 'a7d4e8813bbde32...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/auth/google-callback.php on line 11
+[20-Mar-2026 08:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/akkuapps/public_html/auth/login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/akkuapps/public_html/auth/login.php on line 4
+[20-Mar-2026 18:47:47 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 21:22:04 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 21:22:27 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 21:23:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Mar-2026 21:29:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 00:40:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 01:01:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 09:44:28 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 09:48:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 10:13:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 19:06:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 19:51:37 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 20:12:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Mar-2026 21:04:09 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 05:33:15 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 05:58:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 06:19:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 06:29:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 12:47:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 13:19:29 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 13:29:50 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 13:55:32 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 14:16:35 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 17:14:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 18:02:55 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 18:05:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 18:39:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 19:00:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 19:53:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 20:13:09 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 20:44:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Mar-2026 21:46:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 08:43:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 09:04:59 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 09:49:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 10:01:11 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 10:21:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 10:33:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 10:47:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 10:52:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 11:57:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 12:13:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 12:32:47 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 13:22:03 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 15:48:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 16:10:15 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 16:26:59 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 16:38:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Mar-2026 18:05:27 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 13:58:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 15:15:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 18:16:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 18:16:45 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 18:56:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[31-Mar-2026 19:28:09 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[02-Apr-2026 05:52:14 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[02-Apr-2026 06:23:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[02-Apr-2026 18:38:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[02-Apr-2026 19:41:27 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[02-Apr-2026 19:41:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 00:09:17 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 03:15:59 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 04:16:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 08:01:41 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 08:02:01 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 10:09:25 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 18:03:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 18:04:44 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[03-Apr-2026 19:25:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[04-Apr-2026 12:45:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[04-Apr-2026 22:04:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 01:27:29 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 07:15:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 07:33:55 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 07:37:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 10:51:44 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 10:51:45 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 17:00:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 17:09:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 17:10:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 17:10:32 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 19:39:27 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 21:49:20 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[05-Apr-2026 23:57:46 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Apr-2026 01:04:16 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[06-Apr-2026 13:29:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Apr-2026 07:16:46 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[07-Apr-2026 11:43:09 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Apr-2026 13:36:50 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Apr-2026 13:36:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[08-Apr-2026 14:12:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Apr-2026 08:37:22 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[09-Apr-2026 11:57:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 09:48:33 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 10:32:01 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 10:40:23 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 11:26:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 13:55:18 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[11-Apr-2026 14:43:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Apr-2026 09:39:42 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Apr-2026 09:57:55 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Apr-2026 12:27:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[14-Apr-2026 21:19:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[16-Apr-2026 14:17:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Apr-2026 10:21:49 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Apr-2026 11:14:18 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Apr-2026 17:00:50 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[17-Apr-2026 22:23:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 00:32:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 02:51:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 03:53:16 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 10:49:19 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 14:21:36 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 23:00:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 23:05:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[18-Apr-2026 23:05:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 00:18:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 00:18:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 00:48:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 08:36:56 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 09:08:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 21:05:34 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 21:58:04 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 22:06:55 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[19-Apr-2026 22:07:07 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Apr-2026 14:32:43 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Apr-2026 14:43:26 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Apr-2026 19:54:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[20-Apr-2026 20:02:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 08:07:17 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 11:57:02 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 16:04:13 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 17:54:49 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 17:54:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 17:55:18 Asia/Kolkata] Token error: {
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}
+[21-Apr-2026 20:01:57 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 20:09:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 20:10:23 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 20:10:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 21:21:08 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 21:21:31 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 22:30:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 23:08:42 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[21-Apr-2026 23:39:06 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 02:27:40 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 08:29:54 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 09:45:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 11:41:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 13:24:38 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 16:13:29 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 16:35:42 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 19:03:16 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 19:04:05 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 19:06:10 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 21:40:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[22-Apr-2026 21:40:39 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 00:13:00 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 02:01:24 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 02:42:58 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 02:44:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 03:16:12 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 03:28:25 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 08:40:52 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 10:26:33 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 12:34:30 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 14:12:51 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile
+[23-Apr-2026 15:48:53 Asia/Kolkata] Google Auth: forContacts=no, scopes=openid email profile

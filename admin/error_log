@@ -1,0 +1,151 @@
+[26-Feb-2026 02:52:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:27 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:28 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:42 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:52:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:55:13 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:29
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(29): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 29
+[26-Feb-2026 02:56:17 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:21
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(21): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 21
+[26-Feb-2026 02:57:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:21
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(21): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 21
+[26-Feb-2026 03:59:56 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'akkuapps_db.blog_likes' doesn't exist in /home/akkuapps/public_html/admin/blogs.php:41
+Stack trace:
+#0 /home/akkuapps/public_html/admin/blogs.php(41): PDO->query('\n    SELECT b.*...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/blogs.php on line 41
+[28-Feb-2026 04:20:39 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 04:20:39 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 04:26:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 115
+[28-Feb-2026 08:56:01 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 08:56:01 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 08:59:51 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 08:59:51 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 09:02:31 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 09:02:31 Asia/Kolkata] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/akkuapps/public_html/includes/functions.php on line 107
+[28-Feb-2026 19:39:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 117
+[28-Feb-2026 19:40:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 117
+[28-Feb-2026 19:40:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 117
+[01-Mar-2026 03:25:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[01-Mar-2026 05:53:27 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[01-Mar-2026 05:59:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[01-Mar-2026 06:11:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:11:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:11:51 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:12:26 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:12:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:12:32 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'device_type' in 'field list' in /home/akkuapps/public_html/admin/dashboard.php:72
+Stack trace:
+#0 /home/akkuapps/public_html/admin/dashboard.php(72): PDO->query('\n    SELECT dev...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 72
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Warning:  Undefined array key "week_visits" in /home/akkuapps/public_html/admin/dashboard.php on line 139
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/akkuapps/public_html/admin/dashboard.php on line 139
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Warning:  Undefined array key "pending_comments" in /home/akkuapps/public_html/admin/dashboard.php on line 161
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/akkuapps/public_html/admin/dashboard.php on line 161
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Warning:  Undefined array key "coins_earned_today" in /home/akkuapps/public_html/admin/dashboard.php on line 167
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/akkuapps/public_html/admin/dashboard.php on line 167
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Warning:  Undefined array key "games_played_today" in /home/akkuapps/public_html/admin/dashboard.php on line 172
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/akkuapps/public_html/admin/dashboard.php on line 172
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Warning:  Undefined variable $activeSessions in /home/akkuapps/public_html/admin/dashboard.php on line 422
+[01-Mar-2026 06:16:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/akkuapps/public_html/admin/dashboard.php:422
+Stack trace:
+#0 {main}
+  thrown in /home/akkuapps/public_html/admin/dashboard.php on line 422
+[02-Mar-2026 19:37:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 00:09:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 12:30:58 Asia/Kolkata] PHP Warning:  Undefined variable $blogId in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:30:58 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:30:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/admin/blogs.php:13) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 12:31:08 Asia/Kolkata] PHP Warning:  Undefined variable $blogId in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:31:08 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:31:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/admin/blogs.php:13) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 12:58:54 Asia/Kolkata] PHP Warning:  Undefined variable $blogId in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:58:54 Asia/Kolkata] PHP Warning:  Undefined variable $message in /home/akkuapps/public_html/admin/blogs.php on line 13
+[03-Mar-2026 12:58:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/admin/blogs.php:13) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 13:03:09 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/includes/header.php:27) in /home/akkuapps/public_html/includes/functions.php on line 129
+[03-Mar-2026 13:04:47 Asia/Kolkata] PHP Warning:  Undefined variable $allowed in /home/akkuapps/public_html/admin/blogs.php on line 114
+[03-Mar-2026 13:04:47 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/akkuapps/public_html/admin/blogs.php:114
+Stack trace:
+#0 /home/akkuapps/public_html/admin/blogs.php(114): in_array('jpg', NULL)
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/blogs.php on line 114
+[06-Mar-2026 11:37:07 Asia/Kolkata] PHP Warning:  move_uploaded_file(/home/akkuapps/public_html/admin/../uploads/blogs/06-mar-2026-9am/gallery_2.jpg): Failed to open stream: No such file or directory in /home/akkuapps/public_html/admin/blogs.php on line 182
+[06-Mar-2026 11:37:07 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplccWM2' to '/home/akkuapps/public_html/admin/../uploads/blogs/06-mar-2026-9am/gallery_2.jpg' in /home/akkuapps/public_html/admin/blogs.php on line 182
+[06-Mar-2026 11:37:07 Asia/Kolkata] PHP Warning:  move_uploaded_file(/home/akkuapps/public_html/admin/../uploads/blogs/06-mar-2026-9am/gallery_5.png): Failed to open stream: No such file or directory in /home/akkuapps/public_html/admin/blogs.php on line 182
+[06-Mar-2026 11:37:07 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSRE92w' to '/home/akkuapps/public_html/admin/../uploads/blogs/06-mar-2026-9am/gallery_5.png' in /home/akkuapps/public_html/admin/blogs.php on line 182
+[06-Mar-2026 11:37:07 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akkuapps/public_html/admin/blogs.php:182) in /home/akkuapps/public_html/includes/functions.php on line 129
+[07-Mar-2026 10:11:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'meta_data' in 'field list' in /home/akkuapps/public_html/admin/blogs.php:299
+Stack trace:
+#0 /home/akkuapps/public_html/admin/blogs.php(299): PDO->prepare('INSERT INTO blo...')
+#1 {main}
+  thrown in /home/akkuapps/public_html/admin/blogs.php on line 299
